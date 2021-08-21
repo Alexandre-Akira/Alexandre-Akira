@@ -16,6 +16,8 @@
   <img align="center" alt="Akira-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Akira-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   
+  <iframe src=”https://peaceful-meitner-5b7fce.netlify.app” allow=”accelerometer; fullscreen; gyroscope; midi”> 
+</iframe>
   
   
 
