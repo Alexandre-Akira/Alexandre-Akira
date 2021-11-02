@@ -17,7 +17,7 @@
   <img align="center" alt="Akira-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Akira-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Akira-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Akira-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/vue-original.svg">
+  <img align="center" alt="Akira-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/vuejs-original.svg">
 </div><br><br>
   
 
