@@ -1,6 +1,6 @@
 ### Hello World! 👋
 
-- 🌱 I’m currently learning Full Stack WEB Development
+- 🌱 I’m currently learning Front-End WEB Development
 
 <br><div style="display: flex">
   <a href="https://github.com/Alexandre-Akira">
